@@ -1,0 +1,34 @@
+### OSX ###
+# General
+.DS_Store
+
+# dependencies
+node_modules/
+
+# builds
+.serverless/
+
+test.json
+credentials.json
+
+.env*
+*.env
+response/
+
+# vscode
+.vscode/
+
+# idea / intellij / jetbrains
+.idea/
+
+*.data.json
+tmp/
+
+userExport.json
+userExport.csv
+fileOutput.json
+
+.esbuild
+
+workspace/
+dist/
